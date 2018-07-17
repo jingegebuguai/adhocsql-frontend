@@ -1,0 +1,11 @@
+.el-form-item__label {
+    color: #36ab00;
+}
+.el-input.is-disabled .el-input__inner, .el-textarea.is-disabled .el-textarea__inner {
+    background: #f3faf3;
+    border-color: #36ab00;
+    color: #9d9e9e;
+}
+.el-textarea.is-disabled .el-textarea__inner {
+    height: 100px;
+}

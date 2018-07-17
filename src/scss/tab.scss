@@ -1,0 +1,27 @@
+.el-tabs__header {
+    margin: 0;
+    border-bottom: 1px solid #36ab00; 
+}
+.el-tabs__item {
+    padding: 0;
+    text-align: center;
+    width: 150px;
+    height: 30px;
+    line-height: 30px;
+    //border-right: 1px solid #36ab00;
+}
+.el-tabs--border-card > .el-tabs__content {
+    padding: 0;
+}
+.el-tabs--card > .el-tabs__header .el-tabs__nav {
+    border: {
+        width: 1px; 
+        style: solid;
+        color: #36ab00;
+        bottom: none;
+        left: none;
+    }
+}
+.el-tabs--card > .el-tabs__header .el-tabs__item {
+    border-left: 1px solid #36ab00;
+}
