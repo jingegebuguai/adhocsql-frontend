@@ -1,5 +1,5 @@
 ## 项目说明
-自助查询系统
+自定义sql
 
 ## Environment
 
